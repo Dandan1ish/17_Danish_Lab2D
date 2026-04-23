@@ -1,0 +1,11 @@
+/* Style.css - External Stylesheet */
+
+.card {
+    background-color: #fffbeb;
+    border: 2px solid #b45309;
+    border-radius: 8px;
+    padding: 16px 20px;
+    margin: 10px 0;
+    font-weight: bold;
+    colour: #78350F;
+}
